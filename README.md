@@ -2,7 +2,7 @@
 
 An intelligent, multi-modal AI travel assistant built with the **Google Agent Development Kit (ADK)**, powered by **Gemini**, and deployed to **Google Cloud Platform (GCP)**. Travel Concierge assists users with trip planning, destination discovery, live currency conversions, weather updates, real-time place searches, and AI-generated visual media (images & videos), all while preserving long-term memory across sessions.
 
-![Travel Concierge Demo](demo.gif)
+![Travel Concierge Demo](agent_demo.gif)
 
 ---
 
